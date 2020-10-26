@@ -1,0 +1,32 @@
+.article-information-container{
+  input, textarea{
+    font-size: 15px;
+    font-weight: 600;
+  }
+}
+
+.create-article-section.dark{
+  .at-alert{
+    background-color: #ffffb8;
+    border-color: #fff384;
+    .at-alert__close{
+      color: rgba(0, 0, 0, 0.747);
+      font-weight: 700;
+    }
+  }
+  .dark-article-container{
+
+    input, textarea{
+      background-color: #13181f;
+      border-color: #1a1c20;
+      color: #e2e8f0;
+      &::placeholder{
+        color: rgba(255,255,255,.26);
+      }
+      &:focus, &:hover{
+        border-color: #fff098;
+      }
+    }
+  }
+}
+
