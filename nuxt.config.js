@@ -10,6 +10,7 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href : 'https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css'}
     ],
     script : [
       {src : 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js'}
@@ -33,10 +34,7 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
-  buildModules: [
-    // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
-  ],
+
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: ['@nuxtjs/axios', '@nuxtjs/auth'],
