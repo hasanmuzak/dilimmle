@@ -1,8 +1,9 @@
 # Dilimmle
 Dilimmle Project
 ---
-Dilimmle is a project to help Turkish speakers to improve their English skills by reading articles for free. Unfortunately, live review is not available because tailwindcss and ui framework didn't work together in production.  
-If you want to test only frontend, use this sample credentials :
+Dilimmle is a project to help Turkish speakers to improve their English skills by reading articles for free. Live preview is available.  
+Live Preview : https://dilimmle.herokuapp.com/
+Sample Credentials :
 
 **Username :** demouser  
 **Password :** 1234567
