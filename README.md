@@ -3,6 +3,7 @@ Dilimmle Project
 ---
 Dilimmle is a project to help Turkish speakers to improve their English skills by reading articles for free. Live preview is available.  
 Live Preview : https://dilimmle.herokuapp.com/  
+---  
 Sample Credentials :
 
 **Username :** demouser  
